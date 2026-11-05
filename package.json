@@ -1,0 +1,29 @@
+{
+  "name": "hw7-handelebars-js2",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariabk14/hw7-handelebars-js2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariabk14/hw7-handelebars-js2/issues"
+  },
+  "homepage": "https://github.com/Mariabk14/hw7-handelebars-js2#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.4",
+    "parcel-transformer-handlebars": "^1.0.0",
+    "parcel-transformer-hbs": "^1.0.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.10"
+  }
+}
